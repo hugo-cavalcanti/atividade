@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+
+* {
+    background-color: black;
+}
+
+p {
+    color: azure;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Bitcount Grid Double", system-ui;
+    color: rgb(64, 206, 152);
+}
+
+p {
+    text-align: center;
+    color: rgb(46, 133, 82);
+}
+
+.foto {
+    display: flex;
+    align-items: left;
+}
+
+ul {
+    text-align: left;
+    color: azure;
+}
+
+.borda-menor {
+    border-width: 2px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.borda {
+    text-align: right;
+    border: 2px solid white;
+    border-radius: 5px;
+}
